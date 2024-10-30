@@ -1,0 +1,93 @@
+
+.error {
+    font-size: 14px;
+    margin-top: 2px;
+    color: red;
+    font-style: italic;
+    margin-top: 20px;
+}
+.nge-card{
+    padding: 30px 20px;
+    margin-bottom: 30px;
+}
+.nge-total-foot{
+    background: #e6e6e6;
+    padding: 10px 10px;
+    margin-top: 20px;
+}
+
+.pro-text{
+    font-style: italic;
+}
+
+#mpgs-payment {
+    background: #f8f8f8;
+    float: none !important;
+    margin: 0 auto !important;
+    border-radius: 10px;
+    padding: 20px 25px;
+    width: 50%;
+}
+
+.payment-heading h3 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: 600;
+}
+
+#payment-section label {
+    display: block;
+    font-size: 14px;
+    color: #183257;
+    margin: 0 0 5px;
+}
+
+#payment-section iframe {
+    width: 100%!important;
+    background: none 0% 0% / auto repeat scroll padding-box border-box rgb(242, 242, 242) !important;
+}
+
+#payment-section iframe input {
+    width: 100% !important;
+    box-shadow: none !important;
+    height: 44px !important;
+    background: none 0% 0% / auto repeat scroll padding-box border-box rgb(226, 226, 226) !important;
+}
+
+#payment-section .col-md-6 {
+    width: 50%;
+    float: left;
+}
+
+#payment-section  .col-md-6 iframe {
+    height: 45px !important;
+}
+
+#payment-section  .col-md-6 iframe select {
+    height: 44px !important;
+    border: none !important;
+    background: none 0% 0% / auto repeat scroll padding-box border-box rgb(226, 226, 226) !important;
+    box-shadow: none !important;
+}
+
+#mpgs-payment .form-footer {
+    text-align: center;
+}
+
+#mpgs-payment #payment-section .form-footer button.btn-primary {
+    background: #183257 !important;
+    color: #fff !important;
+    border-radius: 4px !important;
+    display: inline-block !important;
+}
+
+#mpgs-payment #loading {
+    width: 100% !important;
+    text-align: center;
+}
+
+#mpgs-payment #loading img {
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
